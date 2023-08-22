@@ -27,7 +27,7 @@ July 2017 - July 2021
 
 ### Eaton Corporation, Aurora, CO — IT Analyst
 April 2016 - July 2017
-- Contributed to multiple-site disaster recovery planning
+- Contributed to multi-site disaster recovery planning
 - Participated in enterprise-level IT planning & implementation efforts
 - Provided Tier 2 Windows support to enterprise users
 
