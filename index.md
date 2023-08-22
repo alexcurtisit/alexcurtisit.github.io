@@ -39,8 +39,8 @@ October 2014 - April 2016
 
 ### Fayetteville Public Library, Fayetteville, AR — IT Support
 October 2012 - October 2014
-- Administered OS X-based public computer labs
-- Began career with comprehensive Tier 1 & 2 Windows & OS X support
+- Began career with comprehensive Tier 1 & 2 Windows & OS X support duties
+- Oversaw and analyzed web activity for public computer labs running on OS X
 - Provided A/V support for live events
 
 ## SKILLS
