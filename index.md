@@ -33,8 +33,8 @@ April 2016 - July 2017
 
 ### NinjaTrader, Denver, CO — Technical Support
 October 2014 - April 2016
-- Created & presented webinars
-- Performed manual testing of software platforms, duplicating & tracking bugs as part of the QA process
+- Created & presented educational product webinars for NinjaTrader platform customers
+- Performed manual testing of software platform, duplicating & tracking bugs as part of the QA process
 - Provided Tier 2 application support, solving complex customer challenges
 
 ### Fayetteville Public Library, Fayetteville, AR — IT Support
