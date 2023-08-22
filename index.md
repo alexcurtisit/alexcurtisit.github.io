@@ -10,7 +10,7 @@ IT Specialist with Expertise in Software QA, Systems Administration & Automation
 ### Barn Owl Tech, Colorado Springs, CO - QA Technician
 Oct 2022 - Present
 - Developed & executed test plans for IoT hardware and associated SaaS platform
-- Implemented Linux-based solutions & provided guidance on Linux utilization
+- Implemented Linux-based solutions on embedded hardware used in cutting-edge products
 - Specialized in automated product validation using Selenium (C#) for SaaS platform testing
 
 ### NinjaTrader, Denver, CO — IT Support II
@@ -40,7 +40,7 @@ October 2014 - April 2016
 ### Fayetteville Public Library, Fayetteville, AR — IT Support
 October 2012 - October 2014
 - Administered OS X-based public computer labs
-- Began career with comprehensive Tier 1 & 2 IT support across Windows & OS X devices
+- Began career with comprehensive Tier 1 & 2 Windows & OS X support
 - Provided A/V support for live events
 
 ## SKILLS
