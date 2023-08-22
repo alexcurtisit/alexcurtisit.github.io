@@ -1,7 +1,7 @@
 # Alex Curtis
 IT Specialist with Expertise in Software QA, Systems Administration & Automation
 
-**Location:** Colorado Springs, CO 80918
+**Location:** Colorado Springs, CO 80918  
 **Email:** [alex@curtisit.net](mailto:alex@curtisit.net)  
 **Website:** [curtisit.net](https://curtisit.net)
 
