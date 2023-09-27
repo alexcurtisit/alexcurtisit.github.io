@@ -48,7 +48,7 @@ October 2012 - October 2014
 - **SysAdmin & Automation:** Bash, Docker, Git, Linux, Network Administration
 - **Security & Compliance:** Disaster Recovery Planning & Auditing, IT Asset Management, IT Risk Management
 - **Programming & Development:** .NET/C#, HTML/XML/DOM, Markdown/YAML/JSON
-- **Tools & Platforms:** Jira, Microsoft 365, Microsoft Power Automate, Sharepoint, Windows Server
+- **Tools & Platforms:** AWS, Jira, Microsoft 365, Microsoft Power Automate, Sharepoint, Windows Server
 
 ## EDUCATION
 **Bachelor of Professional Studies**, Information Technology - Arkansas Tech University, Russellville, AR, 2015
