@@ -43,6 +43,18 @@ October 2012 - October 2014
 - Oversaw and analyzed web activity for public computer labs running on OS X
 - Provided A/V support for live events
 
+### OfficeMax, Fayetteville, AR — Tech Specialist
+April 2010 - October 2011
+- Provided technical assistance and guidance to customers for laptop and tech accessory selection.
+- Managed keyholder responsibilities ensuring secure and efficient store operations.
+- Supported store management in maintaining the tech department’s inventory and merchandising.
+
+### Staples, Mountain Home, AR — EasyTech Technician
+April 2007 - April 2010
+- Conducted over-the-counter computer repair services, troubleshooting and resolving a variety of technical issues.
+- Assisted in managing the technology repair queue to ensure timely service delivery to customers.
+- Collaborated with a team to maintain an organized and well-stocked tech department.
+
 ## SKILLS
 - **Software & QA Testing:** Automated/Manual Testing, IoT Hardware Testing, Selenium WebDriver
 - **SysAdmin & Automation:** Bash, Docker, Git, Linux, Network Administration
