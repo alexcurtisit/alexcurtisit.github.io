@@ -64,3 +64,5 @@ April 2007 - April 2010
 
 ## EDUCATION
 **Bachelor of Professional Studies**, Information Technology - Arkansas Tech University, Russellville, AR, 2015
+
+**Associate of Arts**, General Studies - Arkansas State University Mountain Home, Mountain Home, AR, 2011
