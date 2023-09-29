@@ -1,30 +1,18 @@
 # Alex Curtis - Resume
 
-Welcome to my resume repository. Here you will find the details of my professional background, skills, and education.
+Hello! I am Alex, an IT Specialist from Colorado Springs with a focus on Quality Assurance, Systems Administration, and Automation. With over a decade of experience, I've honed my skills across different roles, ensuring quality, efficiency, and continuous improvement in all the projects I engage in.
 
-## EXPERIENCE
+## Snapshot
 
-- **Barn Owl Tech, Colorado Springs, CO** - QA Technician
-- **NinjaTrader, Denver, CO** — IT Support II
-- **Eden Innovations, Littleton, CO** — IT Specialist
-- **Eaton Corporation, Aurora, CO** — IT Analyst
-- **NinjaTrader, Denver, CO** — Technical Support
-- **Fayetteville Public Library, Fayetteville, AR** — IT Support
+- **Current Position:** QA Technician at Barn Owl Tech, Colorado Springs, CO
+- **Skills:** Software & QA Testing, SysAdmin & Automation, Programming & Development, among others.
+- **Education:** Bachelor of Professional Studies, Information Technology from Arkansas Tech University
 
-## SKILLS
+Feel free to explore this repository to learn more about my professional journey and the skills I bring to the table.
 
-- Software & QA Testing
-- SysAdmin & Automation
-- Security & Compliance
-- Programming & Development
-- Tools & Platforms
+## Connect
 
-## EDUCATION
+- **Email:** [alex@curtisit.net](mailto:alex@curtisit.net)
+- **Website:** [curtisit.net](https://curtisit.net)
 
-- **Bachelor of Professional Studies**, Information Technology - Arkansas Tech University, Russellville, AR, 2015
-
-For more detailed information, please refer to the resume file in this repository.
-
-## Contact
-
-If you have any questions, feel free to contact me at [alex@curtisit.net](mailto:alex@curtisit.net) or visit my [personal website](https://curtisit.net).
+Looking forward to connecting and exploring how I can contribute to solving complex technical challenges!
