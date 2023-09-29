@@ -10,6 +10,7 @@ Dedicated IT Specialist with over a decade of experience in Quality Assurance, S
 
 ### Barn Owl Tech, Colorado Springs, CO - QA Technician
 Oct 2022 - Present
+- Actively contributed to continuous improvement initiatives to enhance operations, product development, and testing processes
 - Developed & executed test plans for IoT hardware and associated SaaS platform
 - Implemented Linux-based solutions on embedded hardware used in cutting-edge products
 - Specialized in automated product validation using Selenium (C#) for SaaS platform testing
@@ -65,5 +66,3 @@ April 2007 - April 2010
 
 ## EDUCATION
 **Bachelor of Professional Studies**, Information Technology - Arkansas Tech University, Russellville, AR, 2015
-
-**Associate of Arts**, General Studies - Arkansas State University Mountain Home, Mountain Home, AR, 2011
