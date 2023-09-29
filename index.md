@@ -1,9 +1,10 @@
 # Alex Curtis
-IT Specialist with Expertise in IoT/SaaS QA, Systems Administration & Automation
-
 **Location:** Colorado Springs, CO 80918  
 **Email:** [alex@curtisit.net](mailto:alex@curtisit.net)  
-**Website:** [curtisit.net](https://curtisit.net)
+**Website:** [curtisit.net](https://curtisit.net)  
+
+## PROFESSIONAL SUMMARY
+Dedicated IT Specialist with over a decade of experience in Quality Assurance, Systems Administration, and Automation. Adept at working with cross-functional teams to streamline operations and enhance processes. Proven ability in managing complex projects and driving software quality assurance efforts. Continually eager to embrace new challenges and technologies to bolster efficiency and innovation.
 
 ## EXPERIENCE
 
