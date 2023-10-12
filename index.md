@@ -46,13 +46,13 @@ October 2012 - October 2014
 - Provided Tier 1 & 2 Windows & OS X support for public-facing computer labs & kiosks
 
 ### OfficeMax, Fayetteville, AR — Tech Specialist
-April 2010 - October 2011
+April 2011 - October 2012
 - Managed keyholder responsibilities ensuring secure and efficient store operations.
 - Provided technical assistance and guidance to customers for laptop and tech accessory selection.
 - Supported store management in maintaining the tech department’s inventory and merchandising.
 
 ### Staples, Mountain Home, AR — EasyTech Technician
-April 2007 - April 2010
+April 2008 - April 2011
 - Assisted in managing the technology repair queue to ensure timely service delivery to customers.
 - Collaborated with a team to maintain an organized and well-stocked tech department.
 - Conducted over-the-counter computer repair services, troubleshooting and resolving a variety of technical issues.
