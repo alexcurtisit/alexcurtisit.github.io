@@ -9,7 +9,7 @@ Dedicated IT Specialist with over a decade of experience in Quality Assurance, S
 ## EXPERIENCE
 
 ### Barn Owl Tech, Colorado Springs, CO - QA Technician
-Oct 2022 - Present
+October 2022 - Present
 - Actively contributed to continuous improvement initiatives to enhance operations, product development, and testing processes
 - Developed & executed test plans for IoT hardware and associated SaaS platform
 - Implemented Linux-based solutions on embedded hardware used in cutting-edge products
