@@ -1,5 +1,3 @@
-# Cover Letter for Software Adoption Specialist TSC Coordinator
-
 Alex Curtis  
 Colorado Springs, CO 80918  
 [alex@curtisit.net](mailto:alex@curtisit.net)  
