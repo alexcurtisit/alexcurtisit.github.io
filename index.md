@@ -4,65 +4,54 @@
 **Website:** [curtisit.net](https://curtisit.net)  
 
 ## PROFESSIONAL SUMMARY
-Dedicated IT Specialist with over a decade of experience in Quality Assurance, Systems Administration, and Automation. Adept at working with cross-functional teams to streamline operations and enhance processes. Proven ability in managing complex projects and driving software quality assurance efforts. Continually eager to embrace new challenges and technologies to bolster efficiency and innovation.
+Dedicated technologist with over a decade of experience in various IT disciplines. Adept at working with cross-functional teams to streamline operations and enhance processes. Continually eager to embrace new challenges and technologies to bolster efficiency and innovation.
 
 ## EXPERIENCE
 
-### Barn Owl Tech, Colorado Springs, CO - QA Technician
+### Barn Owl Tech, Colorado Springs, CO — QA Technician
 October 2022 - Present
-- Actively contributed to continuous improvement initiatives to enhance operations, product development, and testing processes
-- Developed & executed test plans for IoT hardware and associated SaaS platform
-- Implemented Linux-based solutions on embedded hardware used in cutting-edge products
-- Specialized in automated product validation using Selenium (C#) for SaaS platform testing
+- Conducted field work at Air Force, Space Force, and Marine Corps bases for SBIR and DIU contracts, deploying and testing cutting-edge technology such as AI-equipped cellular IoT cameras, AI object recognition, mesh radios, and private 5G networks
+- Extensively tested the EdgeCam, Barn Owl's 5G cellular AI-on-edge IoT camera, from prototype stage to commercial product
+- Performed thorough manual and automated testing for Barn Owl's IoT camera offerings and its SaaS platform, Barn Owl HQ
+- Provided Tier 3 support for Barn Owl products to DoD contacts
 
 ### NinjaTrader, Denver, CO — IT Support II
 July 2021 - July 2022
-- Contributed to product/enterprise infrastructure and office transition projects
-- Led efforts in systems administration, process automation & critical infrastructure maintenance
-- Led internal Windows support team, providing training to Tier 1 IT support personnel
+- Contributed to product and enterprise infrastructure projects, focusing on systems administration, process automation, and critical infrastructure maintenance
+- Led the internal Windows support team, providing training and mentorship to Tier 1 IT support personnel
+- Oversaw the IT functions necessary for decommissioning NinjaTrader's Denver office, ensuring a seamless transition with minimal disruption
+- Successfully rectified a problematic migration from Exchange to Microsoft 365
 
 ### Eden Innovations, Littleton, CO — IT Specialist
 July 2017 - July 2021
-- Diversified & secured existing infrastructure
-- Orchestrated backups, disaster recovery plans & Microsoft 365/Sharepoint administration
-- Provided expert Tier 2 Windows support, resolving complex business issues
+- Overhauled existing server and network infrastructure, significantly improving reliability and security
+- Managed Microsoft 365 tenant, including form automation leveraging SharePoint and Microsoft Power Automate, streamlining collaboration and productivity
+- Orchestrated backups and disaster recovery plans
+- Provided expert Tier 2 Windows support
 
 ### Eaton Corporation, Aurora, CO — IT Analyst
 April 2016 - July 2017
-- Contributed to multi-site disaster recovery planning
-- Participated in enterprise-level IT planning & implementation efforts
-- Provided Tier 2 Windows support to enterprise users
+- Contributed to multi-site disaster recovery planning, thoroughly documenting four sites for compliance with enterprise requirements
+- Participated in enterprise-level IT planning and implementation efforts, ensuring alignment with organizational goals
+- Provided Tier 2 Windows support to enterprise users across four sites in the Colorado region
 
 ### NinjaTrader, Denver, CO — Technical Support
 October 2014 - April 2016
-- Created & presented educational product webinars for NinjaTrader platform customers
-- Performed manual testing of software platform, duplicating & tracking bugs as part of the QA process
+- Created and presented educational product webinars for NinjaTrader desktop application users
+- Performed manual testing of software platform; documented found bugs and feature requests into Jira
 - Provided Tier 2 application support, solving complex customer challenges
 
 ### Fayetteville Public Library, Fayetteville, AR — IT Support
 October 2012 - October 2014
-- Oversaw and analyzed web activity for public computer labs running on OS X
-- Provided A/V support for live events
-- Provided Tier 1 & 2 Windows & OS X support for public-facing computer labs & kiosks
-
-### OfficeMax, Fayetteville, AR — Tech Specialist
-April 2011 - October 2012
-- Managed keyholder responsibilities ensuring secure and efficient store operations.
-- Provided technical assistance and guidance to customers for laptop and tech accessory selection.
-- Supported store management in maintaining the tech department’s inventory and merchandising.
-
-### Staples, Mountain Home, AR — EasyTech Technician
-April 2008 - April 2011
-- Assisted in managing the technology repair queue to ensure timely service delivery to customers.
-- Collaborated with a team to maintain an organized and well-stocked tech department.
-- Conducted over-the-counter computer repair services, troubleshooting and resolving a variety of technical issues.
+- Monitored web activity and enforced acceptable use policy for public computer labs running on Windows and OS X
+- Provided A/V support for live events hosted by the library
+- Provided Tier 2 Windows and OS X support for public-facing computer labs and kiosks
 
 ## SKILLS
-- **Software & QA Testing:** Automated/Manual Testing, IoT Hardware Testing, Selenium WebDriver
-- **SysAdmin & Automation:** Bash, Docker, Git, Linux, Network Administration
-- **Security & Compliance:** Disaster Recovery Planning & Auditing, IT Asset Management, IT Risk Management
-- **Programming & Development:** .NET/C#, HTML/XML/DOM, Markdown/YAML/JSON
-- **Tools & Platforms:** AWS, Jira, Microsoft 365, Microsoft Power Automate, Sharepoint, Windows Server
+- **Compliance & Security:** Disaster Recovery Planning & Auditing, IT Asset Management, IT Risk Management
+- **Development:** AT command set, Bash, C#/.NET, Docker, Git, HTML/DOM/XML, Markdown/JSON/YAML, MQTT, Selenium WebDriver
+- **Platforms & Tools:** AWS, Bitbucket, GitHub, Jira, Microsoft 365, Microsoft Power Automate, SharePoint
+- **System Administration:** Active Directory, Group Policy, Linux, Network Administration, Windows Server
 
 ## EDUCATION
 **Bachelor of Professional Studies**, Information Technology - Arkansas Tech University, Russellville, AR, 2015
