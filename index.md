@@ -10,7 +10,7 @@ Dedicated technologist with over a decade of experience in various IT discipline
 
 ### Barn Owl Tech, Colorado Springs, CO — QA Technician
 October 2022 - Present
-- Conducted field work at Air Force, Space Force, and Marine Corps bases for SBIR and DIU contracts, deploying and testing cutting-edge technology such as AI-equipped cellular IoT cameras, AI object recognition, mesh radios, and private 5G networks
+- Conducted field work for R&D contracts, deploying and testing cutting-edge technology such as AI-equipped cellular IoT cameras, AI object recognition, mesh radios, and private 5G networks
 - Extensively tested the EdgeCam, Barn Owl's 5G cellular AI-on-edge IoT camera, from prototype stage to commercial product
 - Performed thorough manual and automated testing for Barn Owl's IoT camera offerings and its SaaS platform, Barn Owl HQ
 - Provided Tier 3 support for Barn Owl products to DoD contacts
